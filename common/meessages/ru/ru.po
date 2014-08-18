@@ -1,0 +1,7 @@
+#
+msgid ""
+msgstr ""
+
+
+msgid "Change filter"
+msgstr "Изменить фильтр"

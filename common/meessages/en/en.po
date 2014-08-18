@@ -2,152 +2,183 @@
 msgid ""
 msgstr ""
 
-msgid "I’m in ${concert_place} and want ${concert_type} ${concert_genres} ${concert_festival} for ${concert_time}"
-msgstr "I’m in ${concert_place} and want ${concert_type} ${concert_genres} ${concert_festival} for ${concert_time}"
 
-msgid "Change filter"
-msgstr "Change filter"
-
-msgid "Area"
-msgstr "Area"
-
-msgid "Type"
-msgstr "Type"
-
-msgid "Events"
-msgstr "Events"
-
-msgid "Time"
-msgstr "Time"
-
-msgid "Genres"
-msgstr "Genres"
-
-msgid "all genres"
-msgstr "all genres"
-
-msgid "Done"
-msgstr "Done"
-
-msgid "wants to see this gig"
-msgstr "wants to see this gig"
-
-msgid "Likes ${artistsList}"
-msgstr "Likes ${artistsList}"
+msgid "${count} gigs matches"
+msgstr "${count} gigs matches"
 
 msgid "About ${title}"
 msgstr "About ${title}"
 
-msgid "Invite friends"
-msgstr "Invite friends"
+msgid "All"
+msgstr "All"
 
-msgid "Line-up"
-msgstr "Line-up"
+msgid "All concerts in {city}"
+msgstr "All concerts in {city}"
 
-msgid "load ${countVar} other friends"
-msgstr "load ${countVar} other friends"
-
-msgid "load ${countVar} other artists"
-msgstr "load ${countVar} other artists"
-
-msgid "Search artist"
-msgstr "Search artist"
-
-msgid "find events or change city"
-msgstr "find events or change city"
-
-msgid "Friends’ plans"
-msgstr "Friends’ plans"
-
-msgid "gigs that your friends will visit"
-msgstr "gigs that your friends will visit"
-
-msgid "Favorite artists"
-msgstr "Favorite artists"
-
-msgid "favorite artists gigs in your cities"
-msgstr "favorite artists gigs in your cities"
-
-msgid "My profile"
-msgstr "My profile"
-
-msgid "friends, plans, artisits"
-msgstr "friends, plans, artisits"
-
-msgid "Settings"
-msgstr "Settings"
-
-msgid "Logout"
-msgstr "Logout"
-
-msgid "SignIn / SignUp"
-msgstr "SignIn / SignUp"
-
-msgid "friends"
-msgstr "friends"
-
-msgid "artists"
-msgstr "artists"
-
-msgid "events"
-msgstr "events"
+msgid "All dates"
+msgstr "All dates"
 
 msgid "Almost finished"
 msgstr "Almost finished"
 
-msgid "Imported ${countArtist} favorites artists and bands. When any of them announces concert in ${placeName}, we’ll send email notification tailored special for you"
-msgstr "Imported ${countArtist} favorites artists and bands. When any of them announces concert in ${placeName}, we’ll send email notification tailored special for you"
-
-msgid "Please, enter your email"
-msgstr "Please, enter your email"
-
 msgid "And you’ll get"
 msgstr "And you’ll get"
 
-msgid "Your favorite bands’ concerts announces"
-msgstr "Your favorite bands’ concerts announces"
+msgid "Area"
+msgstr "Area"
 
-msgid "Trending concerts around you"
-msgstr "Trending concerts around you"
+msgid "Asian festivals"
+msgstr "Asian festivals"
 
-msgid "Friends’ concert plans"
-msgstr "Friends’ concert plans"
+msgid "Be at the best festivals this season."
+msgstr "Be at the best festivals this season."
 
-msgid "Thanks! You should receive a confirmation email soon"
-msgstr "Thanks! You should receive a confirmation email soon"
+msgid "Change filter"
+msgstr "Change filter"
 
-msgid "Thanks! Your email has been confirmed. Wish you great concerts with your friends"
-msgstr "Thanks! Your email has been confirmed. Wish you great concerts with your friends"
+msgid "Concert With Me is your Go-To Festival Expert"
+msgstr "Concert With Me is your Go-To Festival Expert"
 
-msgid "Psst. Don’t forget to confirm your email"
-msgstr "Psst. Don’t forget to confirm your email"
+msgid "Concert With Me tailors your preferences to the cities you want to visit, the bands you live to follow, and friends you know."
+msgstr "Concert With Me tailors your preferences to the cities you want to visit, the bands you live to follow, and friends you know."
 
-msgid "Resend email"
-msgstr "Resend email"
+msgid "Concert With Me will let you know where the hottest bands are playing, when the best festivals are happening, and where to meet like-minded friends with the same preferences as you."
+msgstr "Concert With Me will let you know where the hottest bands are playing, when the best festivals are happening, and where to meet like-minded friends with the same preferences as you."
 
-msgid "change your address"
-msgstr "change your address"
+msgid "Concerts and festivals"
+msgstr "Concerts and festivals"
 
-msgid "or"
-msgstr "or"
+msgid "Concerts • Music • Friends"
+msgstr "Concerts • Music • Friends"
 
-msgid "Submit"
-msgstr "Submit"
+msgid "Connect with friends for upcoming concerts"
+msgstr "Connect with friends for upcoming concerts"
 
-msgid "All"
-msgstr "All"
+msgid "Connect your Facebook profile for individualized preferences based on the location and musical taste of your friends too!"
+msgstr "Connect your Facebook profile for individualized preferences based on the location and musical taste of your friends too!"
 
-msgid "Recommended"
-msgstr "Recommended"
+msgid "Didn’t find what you were looking for?"
+msgstr "Didn’t find what you were looking for?"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "European festivals"
+msgstr "European festivals"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Favorite artists"
+msgstr "Favorite artists"
+
+msgid "Find out about your friends’ plans"
+msgstr "Find out about your friends’ plans"
+
+msgid "First"
+msgstr "First"
+
+msgid "Friends are going"
+msgstr "Friends are going"
 
 msgid "Friends might go"
 msgstr "Friends might go"
 
+msgid "Friends who may join you"
+msgstr "Friends who may join you"
+
+msgid "Friends’ concert plans"
+msgstr "Friends’ concert plans"
+
+msgid "Friends’ plans"
+msgstr "Friends’ plans"
+
+msgid "Genres"
+msgstr "Genres"
+
+msgid "Get artist and band recommendations"
+msgstr "Get artist and band recommendations"
+
+msgid "Get customized concert recommendations"
+msgstr "Get customized concert recommendations"
+
+msgid "If it’s happening you need to be there."
+msgstr "If it’s happening you need to be there."
+
+msgid "Import your musical preferences and friends\' plans in 1 click."
+msgstr "Import your musical preferences and friends\' plans in 1 click."
+
+msgid "Imported ${countArtist} favorites artists and bands. When any of them announces concert in ${placeName}, we’ll send email notification tailored special for you"
+msgstr "Imported ${countArtist} favorites artists and bands. When any of them announces concert in ${placeName}, we’ll send email notification tailored special for you"
+
+msgid "Invite friends"
+msgstr "Invite friends"
+
+msgid "I’m going"
+msgstr "I’m going"
+
+msgid "I’m in ${concert_place} and want ${concert_type} ${concert_genres} ${concert_festival} for ${concert_time}"
+msgstr "I’m in ${concert_place} and want ${concert_type} ${concert_genres} ${concert_festival} for ${concert_time}"
+
+msgid "Join Concert With Me"
+msgstr "Join Concert With Me"
+
+msgid "Join Now"
+msgstr "Join Now"
+
+msgid "Join the community where fans come together."
+msgstr "Join the community where fans come together."
+
+msgid "Just 1 click and you’ll get"
+msgstr "Just 1 click and you’ll get"
+
+msgid "Last"
+msgstr "Last"
+
+msgid "Leave event"
+msgstr "Leave event"
+
+msgid "Likes ${artistsList}"
+msgstr "Likes ${artistsList}"
+
+msgid "Line-up"
+msgstr "Line-up"
+
+msgid "List of artists:"
+msgstr "List of artists:"
+
+msgid "Listen to the music for upcoming gigs."
+msgstr "Listen to the music for upcoming gigs."
+
+msgid "Log in with Facebook"
+msgstr "Log in with Facebook"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Matching friends for concertgoing"
+msgstr "Matching friends for concertgoing"
+
 msgid "My favourite artists"
 msgstr "My favourite artists"
 
-msgid "Concerts and festivals"
-msgstr "Concerts and festivals"
+msgid "My profile"
+msgstr "My profile"
+
+msgid "Need a customized profile? Get personal search results"
+msgstr "Need a customized profile? Get personal search results"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "North America festivals"
+msgstr "North America festivals"
+
+msgid "Not going"
+msgstr "Not going"
+
+msgid "Notifications about friends’ plans"
+msgstr "Notifications about friends’ plans"
 
 msgid "Only concerts"
 msgstr "Only concerts"
@@ -155,239 +186,131 @@ msgstr "Only concerts"
 msgid "Only festivals"
 msgstr "Only festivals"
 
-msgid "All dates"
-msgstr "All dates"
-
-msgid "other"
-msgstr "other"
-
-msgid "Just 1 click and you’ll get"
-msgstr "Just 1 click and you’ll get"
-
-msgid "Matching friends for concertgoing"
-msgstr "Matching friends for concertgoing"
-
-msgid "Track concerts of your favorite bands"
-msgstr "Track concerts of your favorite bands"
-
-msgid "Notifications about friends’ plans"
-msgstr "Notifications about friends’ plans"
-
-msgid "Personal concert recommendations"
-msgstr "Personal concert recommendations"
-
-msgid "Log in with Facebook"
-msgstr "Log in with Facebook"
-
-msgid "We respect your privacy and just want to give you more features for discovering concerts with your friends"
-msgstr "We respect your privacy and just want to give you more features for discovering concerts with your friends"
-
-msgid "Vkontakte"
-msgstr "Vkontakte"
-
-msgid "Friends are going"
-msgstr "Friends are going"
-
-msgid "Search concerts in {n} city around the world|Search concerts in {n} cities around the world"
-msgstr "Search concerts in {n} city around the world|Search concerts in {n} cities around the world"
-
-msgid "View full list of cities"
-msgstr "View full list of cities"
-
-msgid "Tour dates for {n} artist|Tour dates for {n} artists"
-msgstr "Tour dates for {n} artist|Tour dates for {n} artists"
-
-msgid "List of artists:"
-msgstr "List of artists:"
+msgid "Other"
+msgstr "Other"
 
 msgid "Over {number} concerts and festivals"
 msgstr "Over  {number} concerts and festivals"
 
-msgid "North America festivals"
-msgstr "North America festivals"
+msgid "Pause"
+msgstr "Pause"
 
-msgid "South America festivals"
-msgstr "South America festivals"
-
-msgid "European festivals"
-msgstr "European festivals"
-
-msgid "Asian festivals"
-msgstr "Asian festivals"
-
-msgid "First"
-msgstr "First"
-
-msgid "Last"
-msgstr "Last"
-
-msgid "concerts and festivals in {n} city|concerts and festivals in {n} cities"
-msgstr "concerts and festivals in {n} city|concerts and festivals in {n} cities"
-
-msgid "Other"
-msgstr "Other"
-
-msgid "Upcoming concerts in {city}"
-msgstr "Upcoming concerts in {city}"
-
-msgid "All concerts in {city}"
-msgstr "All concerts in {city}"
-
-msgid "Your one stop for connecting with the concerts and friends you love."
-msgstr "Your one stop for connecting with the concerts and friends you love."
-
-msgid "You’ll never have to attend a concert alone"
-msgstr "You’ll never have to attend a concert alone"
-
-msgid "Get artist and band recommendations"
-msgstr "Get artist and band recommendations"
-
-msgid "Listen to the music for upcoming gigs."
-msgstr "Listen to the music for upcoming gigs."
-
-msgid "Connect with friends for upcoming concerts"
-msgstr "Connect with friends for upcoming concerts"
-
-msgid "Track your favorite artists’ shows"
-msgstr "Track your favorite artists’ shows"
-
-msgid "Find out about your friends’ plans"
-msgstr "Find out about your friends’ plans"
-
-msgid "Get customized concert recommendations"
-msgstr "Get customized concert recommendations"
-
-msgid "Import your musical preferences and friends\' plans in 1 click."
-msgstr "Import your musical preferences and friends\' plans in 1 click."
-
-msgid "We respect your privacy. Importing your social media profile enriches your ConcertWithMe experience."
-msgstr "We respect your privacy. Importing your social media profile enriches your ConcertWithMe experience."
-
-msgid "Concerts • Music • Friends"
-msgstr "Concerts • Music • Friends"
-
-msgid "Track ${city}"
-msgstr "Track ${city}"
-
-msgid "Want to go"
-msgstr "Want to go"
-
-msgid "Leave event"
-msgstr "Leave event"
-
-msgid "Track artist"
-msgstr "Track artist"
-
-msgid "Stop tracking"
-msgstr "Stop tracking"
+msgid "Personal concert recommendations"
+msgstr "Personal concert recommendations"
 
 msgid "Play"
 msgstr "Play"
 
-msgid "Pause"
-msgstr "Pause"
+msgid "Please, enter your email"
+msgstr "Please, enter your email"
 
-msgid "Next"
-msgstr "Next"
+msgid "Psst. Don’t forget to confirm your email"
+msgstr "Psst. Don’t forget to confirm your email"
 
-msgid "Tracking ${city}"
-msgstr "Tracking ${city}"
+msgid "Recommended"
+msgstr "Recommended"
 
-msgid "Tired of scrolling?"
-msgstr "Tired of scrolling?"
+msgid "Resend email"
+msgstr "Resend email"
 
-msgid "Join Concert With Me"
-msgstr "Join Concert With Me"
-
-msgid "You’ll get personalized recommendations based on your preferences."
-msgstr "You’ll get personalized recommendations based on your preferences."
-
-msgid "Concert With Me is your Go-To Festival Expert"
-msgstr "Concert With Me is your Go-To Festival Expert"
-
-msgid "Sign Up Now"
-msgstr "Sign Up Now"
-
-msgid "Connect your Facebook profile for individualized preferences based on the location and musical taste of your friends too!"
-msgstr "Connect your Facebook profile for individualized preferences based on the location and musical taste of your friends too!"
-
-msgid "Need a customized profile? Get personal search results"
-msgstr "Need a customized profile? Get personal search results"
-
-msgid "Sign Up for Free"
-msgstr "Sign Up for Free"
-
-msgid "Concert With Me tailors your preferences to the cities you want to visit, the bands you live to follow, and friends you know."
-msgstr "Concert With Me tailors your preferences to the cities you want to visit, the bands you live to follow, and friends you know."
-
-msgid "If it’s happening you need to be there."
-msgstr "If it’s happening you need to be there."
-
-msgid "Join Now"
-msgstr "Join Now"
-
-msgid "Concert With Me will let you know where the hottest bands are playing, when the best festivals are happening, and where to meet like-minded friends with the same preferences as you."
-msgstr "Concert With Me will let you know where the hottest bands are playing, when the best festivals are happening, and where to meet like-minded friends with the same preferences as you."
-
-msgid "Be at the best festivals this season."
-msgstr "Be at the best festivals this season."
-
-msgid "Join the community where fans come together."
-msgstr "Join the community where fans come together."
-
-msgid "Sign up for Concert With Me and you can meet-up with other fans of your favorite bands—regardless of where they live!"
-msgstr "Sign up for Concert With Me and you can meet-up with other fans of your favorite bands—regardless of where they live!"
-
-msgid "Didn’t find what you were looking for?"
-msgstr "Didn’t find what you were looking for?"
-
-msgid "Sign Up"
-msgstr "Sign Up"
-
-msgid "With just one click, you’ll get personalized recommendations based on your location and tastes, and your friends’ plans, too."
-msgstr "With just one click, you’ll get personalized recommendations based on your location and tastes, and your friends’ plans, too."
-
-msgid "Tired of scrolling through unfamiliar bands?"
-msgstr "Tired of scrolling through unfamiliar bands?"
-
-msgid "You’ll get a personalized concert calendar featuring your artists and bands."
-msgstr "You’ll get a personalized concert calendar featuring your artists and bands."
-
-msgid "Friends who may join you"
-msgstr "Friends who may join you"
-
-msgid "Send Message"
-msgstr "Send Message"
-
-msgid "marketplace"
-msgstr "marketplace"
-
-msgid "official"
-msgstr "official"
-
-msgid "festival|festivals"
-msgstr "festival|festivals"
-
-msgid "concert|concerts"
-msgstr "concert|concerts"
-
-msgid "${count} gigs matches"
-msgstr "${count} gigs matches"
-
-msgid "You have already logged in as {user}"
-msgstr "You have already logged in as {user}"
+msgid "Search artist"
+msgstr "Search artist"
 
 msgid "Search artists, cities, concerts, festivals"
 msgstr "Search artists, cities, concerts, festivals"
 
-msgid "festivals"
-msgstr "festivals"
+msgid "Search concerts in {n} city around the world|Search concerts in {n} cities around the world"
+msgstr "Search concerts in {n} city around the world|Search concerts in {n} cities around the world"
 
-msgid "I’m going"
-msgstr "I’m going"
+msgid "Send Message"
+msgstr "Send Message"
 
-msgid "Not going"
-msgstr "Not going"
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Sign Up"
+msgstr "Sign Up"
+
+msgid "Sign Up Now"
+msgstr "Sign Up Now"
+
+msgid "Sign Up for Free"
+msgstr "Sign Up for Free"
+
+msgid "Sign up for Concert With Me and you can meet-up with other fans of your favorite bands—regardless of where they live!"
+msgstr "Sign up for Concert With Me and you can meet-up with other fans of your favorite bands—regardless of where they live!"
+
+msgid "SignIn / SignUp"
+msgstr "SignIn / SignUp"
+
+msgid "South America festivals"
+msgstr "South America festivals"
+
+msgid "Stop tracking"
+msgstr "Stop tracking"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Thanks! You should receive a confirmation email soon"
+msgstr "Thanks! You should receive a confirmation email soon"
+
+msgid "Thanks! Your email has been confirmed. Wish you great concerts with your friends"
+msgstr "Thanks! Your email has been confirmed. Wish you great concerts with your friends"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Tired of scrolling through unfamiliar bands?"
+msgstr "Tired of scrolling through unfamiliar bands?"
+
+msgid "Tired of scrolling?"
+msgstr "Tired of scrolling?"
+
+msgid "Tour dates for {n} artist|Tour dates for {n} artists"
+msgstr "Tour dates for {n} artist|Tour dates for {n} artists"
+
+msgid "Track ${city}"
+msgstr "Track ${city}"
+
+msgid "Track artist"
+msgstr "Track artist"
+
+msgid "Track concerts of your favorite bands"
+msgstr "Track concerts of your favorite bands"
+
+msgid "Track your favorite artists’ shows"
+msgstr "Track your favorite artists’ shows"
+
+msgid "Tracking ${city}"
+msgstr "Tracking ${city}"
+
+msgid "Trending concerts around you"
+msgstr "Trending concerts around you"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Upcoming concerts in {city}"
+msgstr "Upcoming concerts in {city}"
+
+msgid "View full list of cities"
+msgstr "View full list of cities"
+
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+msgid "Want to go"
+msgstr "Want to go"
+
+msgid "We respect your privacy and just want to give you more features for discovering concerts with your friends"
+msgstr "We respect your privacy and just want to give you more features for discovering concerts with your friends"
+
+msgid "We respect your privacy. Importing your social media profile enriches your ConcertWithMe experience."
+msgstr "We respect your privacy. Importing your social media profile enriches your ConcertWithMe experience."
+
+msgid "With just one click, you’ll get personalized recommendations based on your location and tastes, and your friends’ plans, too."
+msgstr "With just one click, you’ll get personalized recommendations based on your location and tastes, and your friends’ plans, too."
 
 msgid "You get alert when ${name} will visit"
 msgstr "You get alert when ${name} will visit"
@@ -395,5 +318,83 @@ msgstr "You get alert when ${name} will visit"
 msgid "You get alert when ${name} will visit your city"
 msgstr "You get alert when ${name} will visit your city"
 
+msgid "You have already logged in as {user}"
+msgstr "You have already logged in as {user}"
+
+msgid "Your favorite bands’ concerts announces"
+msgstr "Your favorite bands’ concerts announces"
+
+msgid "Your one stop for connecting with the concerts and friends you love."
+msgstr "Your one stop for connecting with the concerts and friends you love."
+
+msgid "You’ll get a personalized concert calendar featuring your artists and bands."
+msgstr "You’ll get a personalized concert calendar featuring your artists and bands."
+
+msgid "You’ll get personalized recommendations based on your preferences."
+msgstr "You’ll get personalized recommendations based on your preferences."
+
+msgid "You’ll never have to attend a concert alone"
+msgstr "You’ll never have to attend a concert alone"
+
+msgid "all genres"
+msgstr "all genres"
+
+msgid "artists"
+msgstr "artists"
+
+msgid "change your address"
+msgstr "change your address"
+
+msgid "concerts and festivals in {n} city|concerts and festivals in {n} cities"
+msgstr "concerts and festivals in {n} city|concerts and festivals in {n} cities"
+
+msgid "concert|concerts"
+msgstr "concert|concerts"
+
+msgid "events"
+msgstr "events"
+
+msgid "favorite artists gigs in your cities"
+msgstr "favorite artists gigs in your cities"
+
+msgid "festivals"
+msgstr "festivals"
+
+msgid "festival|festivals"
+msgstr "festival|festivals"
+
+msgid "find events or change city"
+msgstr "find events or change city"
+
+msgid "friends"
+msgstr "friends"
+
+msgid "friends, plans, artisits"
+msgstr "friends, plans, artisits"
+
+msgid "gigs that your friends will visit"
+msgstr "gigs that your friends will visit"
+
+msgid "load ${countVar} other artists"
+msgstr "load ${countVar} other artists"
+
+msgid "load ${countVar} other friends"
+msgstr "load ${countVar} other friends"
+
+msgid "marketplace"
+msgstr "marketplace"
+
+msgid "official"
+msgstr "official"
+
+msgid "or"
+msgstr "or"
+
+msgid "other"
+msgstr "other"
+
 msgid "qqqqqqqqqqqqqq"
 msgstr "qqqqqqqqqqqqqq"
+
+msgid "wants to see this gig"
+msgstr "wants to see this gig"

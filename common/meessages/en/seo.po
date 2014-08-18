@@ -2,32 +2,27 @@
 msgid ""
 msgstr ""
 
-msgid "Concerts in {city}"
-msgstr "Concerts in {city}"
 
-msgid "Concerts and Festivals in {city}"
-msgstr "Concerts and Festivals in {city}"
-
-msgid "concerts"
-msgstr "concerts"
-
-msgid "concerts and festivals"
-msgstr "concerts and festivals"
-
-msgid "Tickets, Live Music, Tour Dates, Gigs"
-msgstr "Tickets, Live Music, Tour Dates, Gigs"
-
-msgid "{artist} tour dates{year}. Concerts, Tickets, Music"
-msgstr "{artist} tour dates{year}. Concerts, Tickets, Music"
-
-msgid "{artist} Concert Tickets"
-msgstr "{artist} Concert Tickets"
+msgid "All {artist} tour dates{year}. Tickets, setlists, music, photos and more on ConcertWith.me. Be the first to know when {artist} is playing live in your city!"
+msgstr "All {artist} tour dates{year}. Tickets, setlists, music, photos and more on ConcertWith.me. Be the first to know when {artist} is playing live in your city!"
 
 msgid "Concert Tickets"
 msgstr "Concert Tickets"
 
-msgid "{event} with {artists} – Concert Tickets"
-msgstr "{event} with {artists} – Concert Tickets"
+msgid "Concerts and Festivals in {city}"
+msgstr "Concerts and Festivals in {city}"
+
+msgid "Concerts in {city}"
+msgstr "Concerts in {city}"
+
+msgid "Detailed listings and tickets for upcoming {concerts}, live music, and tour dates in {city} for {year} on ConcertWith.me. Get recommendations, find friends to join a concert, listen to music and more with our {city} music guide."
+msgstr "Detailed listings and tickets for upcoming {concerts}, live music, and tour dates in {city} for {year} on ConcertWith.me. Get recommendations, find friends to join a concert, listen to music and more with our {city} music guide."
+
+msgid "Tickets and information for {artist} upcoming concert at {venue} in {city} on {date}.{tickets}"
+msgstr "Tickets and information for {artist} upcoming concert at {venue} in {city} on {date}.{tickets}"
+
+msgid "Tickets, Live Music, Tour Dates, Gigs"
+msgstr "Tickets, Live Music, Tour Dates, Gigs"
 
 msgid "and"
 msgstr "and"
@@ -35,17 +30,23 @@ msgstr "and"
 msgid "and others"
 msgstr "and others"
 
-msgid "Detailed listings and tickets for upcoming {concerts}, live music, and tour dates in {city} for {year} on ConcertWith.me. Get recommendations, find friends to join a concert, listen to music and more with our {city} music guide."
-msgstr "Detailed listings and tickets for upcoming {concerts}, live music, and tour dates in {city} for {year} on ConcertWith.me. Get recommendations, find friends to join a concert, listen to music and more with our {city} music guide."
+msgid "concerts"
+msgstr "concerts"
 
-msgid "All {artist} tour dates{year}. Tickets, setlists, music, photos and more on ConcertWith.me. Be the first to know when {artist} is playing live in your city!"
-msgstr "All {artist} tour dates{year}. Tickets, setlists, music, photos and more on ConcertWith.me. Be the first to know when {artist} is playing live in your city!"
+msgid "concerts and festivals"
+msgstr "concerts and festivals"
 
-msgid "Tickets and information for {artist} upcoming concert at {venue} in {city} on {date}.{tickets}"
-msgstr "Tickets and information for {artist} upcoming concert at {venue} in {city} on {date}.{tickets}"
+msgid "{artist} Concert Tickets"
+msgstr "{artist} Concert Tickets"
+
+msgid "{artist} tour dates{year}. Concerts, Tickets, Music"
+msgstr "{artist} tour dates{year}. Concerts, Tickets, Music"
+
+msgid "{event} in {city}"
+msgstr "{event} in {city}"
 
 msgid "{event} in {city}. {tickets} with {artists} is a festival on ConcertWith.me. See the line-up, who’s going, listen to music and more."
 msgstr "{event} in {city}. {tickets} with {artists} is a festival on ConcertWith.me. See the line-up, who’s going, listen to music and more."
 
-msgid "{event} in {city}"
-msgstr "{event} in {city}"
+msgid "{event} with {artists} – Concert Tickets"
+msgstr "{event} with {artists} – Concert Tickets"
