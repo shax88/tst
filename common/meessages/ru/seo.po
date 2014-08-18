@@ -1,51 +1,51 @@
-#
+п»ї#
 msgid ""
 msgstr ""
 
 msgid "Concerts in {city}"
-msgstr "Концерты в {city}"
+msgstr "РљРѕРЅС†РµСЂС‚С‹ РІ {city}"
 
 msgid "Concerts and Festivals in {city}"
-msgstr "Концерты и фестивали в {city}"
+msgstr "РљРѕРЅС†РµСЂС‚С‹ Рё С„РµСЃС‚РёРІР°Р»Рё РІ {city}"
 
 msgid "concerts"
-msgstr "концерты"
+msgstr "РєРѕРЅС†РµСЂС‚С‹"
 
 msgid "concerts and festivals"
-msgstr "концерты и фестивали"
+msgstr "РєРѕРЅС†РµСЂС‚С‹ Рё С„РµСЃС‚РёРІР°Р»Рё"
 
 msgid "Tickets, Live Music, Tour Dates, Gigs"
-msgstr "Билеты, живая музыка, туры, выступления"
+msgstr "Р‘РёР»РµС‚С‹, Р¶РёРІР°СЏ РјСѓР·С‹РєР°, С‚СѓСЂС‹, РІС‹СЃС‚СѓРїР»РµРЅРёСЏ"
 
 msgid "{artist} tour dates{year}. Concerts, Tickets, Music"
-msgstr "Расписание концертов {artist}{year}. Концерты, Билеты, Музыка"
+msgstr "Р Р°СЃРїРёСЃР°РЅРёРµ РєРѕРЅС†РµСЂС‚РѕРІ {artist}{year}. РљРѕРЅС†РµСЂС‚С‹, Р‘РёР»РµС‚С‹, РњСѓР·С‹РєР°"
 
 msgid "{artist} Concert Tickets"
-msgstr "Билеты на концерт {artist}"
+msgstr "Р‘РёР»РµС‚С‹ РЅР° РєРѕРЅС†РµСЂС‚ {artist}"
 
 msgid "Concert Tickets"
-msgstr "Билеты на концерт"
+msgstr "Р‘РёР»РµС‚С‹ РЅР° РєРѕРЅС†РµСЂС‚"
 
-msgid "{event} with {artists} – Concert Tickets"
-msgstr "{event} с {artists} — Билеты на концерты"
+msgid "{event} with {artists} вЂ“ Concert Tickets"
+msgstr "{event} СЃ {artists} вЂ” Р‘РёР»РµС‚С‹ РЅР° РєРѕРЅС†РµСЂС‚С‹"
 
 msgid "and"
-msgstr "и"
+msgstr "Рё"
 
 msgid "and others"
-msgstr "и другими"
+msgstr "Рё РґСЂСѓРіРёРјРё"
 
 msgid "Detailed listings and tickets for upcoming {concerts}, live music, and tour dates in {city} for {year} on ConcertWith.me. Get recommendations, find friends to join a concert, listen to music and more with our {city} music guide."
-msgstr "Списки артистов и билеты на предстоящие {concerts}, живая музыка и турне звезд в {city} на {year} год на ConcertWith.me. Получайте рекомендации, находите друзей для посещения концертов, слушайте музыку и другое с нашим музыкальным гидом по {city}."
+msgstr "РЎРїРёСЃРєРё Р°СЂС‚РёСЃС‚РѕРІ Рё Р±РёР»РµС‚С‹ РЅР° РїСЂРµРґСЃС‚РѕСЏС‰РёРµ {concerts}, Р¶РёРІР°СЏ РјСѓР·С‹РєР° Рё С‚СѓСЂРЅРµ Р·РІРµР·Рґ РІ {city} РЅР° {year} РіРѕРґ РЅР° ConcertWith.me. РџРѕР»СѓС‡Р°Р№С‚Рµ СЂРµРєРѕРјРµРЅРґР°С†РёРё, РЅР°С…РѕРґРёС‚Рµ РґСЂСѓР·РµР№ РґР»СЏ РїРѕСЃРµС‰РµРЅРёСЏ РєРѕРЅС†РµСЂС‚РѕРІ, СЃР»СѓС€Р°Р№С‚Рµ РјСѓР·С‹РєСѓ Рё РґСЂСѓРіРѕРµ СЃ РЅР°С€РёРј РјСѓР·С‹РєР°Р»СЊРЅС‹Рј РіРёРґРѕРј РїРѕ {city}."
 
 msgid "All {artist} tour dates{year}. Tickets, setlists, music, photos and more on ConcertWith.me. Be the first to know when {artist} is playing live in your city!"
-msgstr "Расписание всех концертов {artist} на {year}. Билеты, сетлисты, музыка, фотографии и другое на ConcertWith.me. Будьте первыми, кто узнает, когда {artist} выступают вживую в вашем городе!"
+msgstr "Р Р°СЃРїРёСЃР°РЅРёРµ РІСЃРµС… РєРѕРЅС†РµСЂС‚РѕРІ {artist} РЅР° {year}. Р‘РёР»РµС‚С‹, СЃРµС‚Р»РёСЃС‚С‹, РјСѓР·С‹РєР°, С„РѕС‚РѕРіСЂР°С„РёРё Рё РґСЂСѓРіРѕРµ РЅР° ConcertWith.me. Р‘СѓРґСЊС‚Рµ РїРµСЂРІС‹РјРё, РєС‚Рѕ СѓР·РЅР°РµС‚, РєРѕРіРґР° {artist} РІС‹СЃС‚СѓРїР°СЋС‚ РІР¶РёРІСѓСЋ РІ РІР°С€РµРј РіРѕСЂРѕРґРµ!"
 
 msgid "Tickets and information for {artist} upcoming concert at {venue} in {city} on {date}.{tickets}"
-msgstr "Билеты и информация на предстоящий концерт {artist} в Клубе {venue} в {city} {date}.{tickets}"
+msgstr "Р‘РёР»РµС‚С‹ Рё РёРЅС„РѕСЂРјР°С†РёСЏ РЅР° РїСЂРµРґСЃС‚РѕСЏС‰РёР№ РєРѕРЅС†РµСЂС‚ {artist} РІ РљР»СѓР±Рµ {venue} РІ {city} {date}.{tickets}"
 
-msgid "{event} in {city}. {tickets} with {artists} is a festival on ConcertWith.me. See the line-up, who’s going, listen to music and more."
-msgstr "{event} in {city}. {tickets} with {artists} is a festival on ConcertWith.me. See the line-up, who’s going, listen to music and more."
+msgid "{event} in {city}. {tickets} with {artists} is a festival on ConcertWith.me. See the line-up, whoвЂ™s going, listen to music and more."
+msgstr "{event} in {city}. {tickets} with {artists} is a festival on ConcertWith.me. See the line-up, whoвЂ™s going, listen to music and more."
 
 msgid "{event} in {city}"
-msgstr "{event} в {city}"
+msgstr "{event} РІ {city}"
